@@ -1,0 +1,15 @@
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\bin\Debug\net6.0\project22.exe
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\bin\Debug\net6.0\project22.deps.json
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\bin\Debug\net6.0\project22.runtimeconfig.json
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\bin\Debug\net6.0\project22.dll
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\bin\Debug\net6.0\project22.pdb
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\obj\Debug\net6.0\project22.csproj.AssemblyReference.cache
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\obj\Debug\net6.0\project22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\obj\Debug\net6.0\project22.AssemblyInfoInputs.cache
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\obj\Debug\net6.0\project22.AssemblyInfo.cs
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\obj\Debug\net6.0\project22.csproj.CoreCompileInputs.cache
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\obj\Debug\net6.0\project22.dll
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\obj\Debug\net6.0\refint\project22.dll
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\obj\Debug\net6.0\project22.pdb
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\obj\Debug\net6.0\project22.genruntimeconfig.cache
+C:\Users\syami\OneDrive\Desktop\dotnet\project22\obj\Debug\net6.0\ref\project22.dll
