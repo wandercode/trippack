@@ -361,7 +361,7 @@ ol {
 }
 
 .site-logo {
-	background: #2916e0;
+	background: #464454;
 	width: calc(100% - 90px);
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -533,7 +533,7 @@ ol {
 	padding: 4px 20px;
 	margin-bottom: 10px;
 	font-size: 12px;
-	color: #2916e0;
+	color: #070707;
 	text-transform: uppercase;
 	font-weight: 600;
 	border-radius: 2px;
@@ -1008,7 +1008,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .gallery-filter li.active {
-	color: #2916e0;
+	color: #e01642;
 }
 
 .grid-sizer,
