@@ -15,9 +15,16 @@
 html,
 body {
 	height: 100%;
-	font-family: "Montserrat", sans-serif;
+	font-family:'monospace.medium', monospace;
 	-webkit-font-smoothing: antialiased;
 }
+    @font-face {
+      font-family: 'monospace.medium'; /* A name you choose for your font */
+      src: url('fonts/monospace.medium.ttf') format('ttf'); /* Paths to your font files */
+      font-weight: normal; /* Optional: specify font weight */
+      font-style: normal;  /* Optional: specify font style */
+      font-display: swap; /* Optional: improves performance, see MDN for details */
+    }
 
 body {
 	padding-left: 90px;
@@ -1861,3 +1868,71 @@ only screen and (min-width: 992px) and (max-width: 1200px),
   width: 100%;
   height: 100%;
 }*/
+
+.profile-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 34px;
+  /*background: linear-gradient(90deg, #ef5350 0%, #235067 100%);*/
+	border-radius: 18px;
+  box-shadow: 0 4px 20px #0001;
+  padding: 244px 148px;
+  margin: 36px auto;
+  max-width: 1800px;
+}
+
+.profile-img-wrap {
+  flex: 0 0 auto;
+}
+
+.profile-banner-img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  /*box-shadow: 0 6px 20px #ef535094;*/
+  border: 5px solid #fff;
+}
+
+.profile-name-wrap {
+  flex: 1 1 auto;
+  color: #fff;
+  text-align: left;
+}
+
+.profile-names {
+  font-size: 2.7rem;
+  font-weight: 900;
+  letter-spacing: 2px;
+  min-height: 54px;
+  margin: 0;
+}
+
+.profile-subtitle {
+  font-size: 1.2rem;
+  font-style: italic;
+  margin-top: 11px;
+  color: #ffeeee;
+}
+
+@media (max-width: 600px) {
+  .profile-banner {
+    flex-direction: column;
+    gap: 22px;
+    padding: 28px 10px;
+  }
+  .profile-names {
+    font-size: 1.8rem;
+    min-height: 32px;
+    text-align: center;
+  }
+  .profile-name-wrap {
+    text-align: center;
+  }
+  .profile-img-wrap {
+    text-align: center;
+  }
+}
+
+
