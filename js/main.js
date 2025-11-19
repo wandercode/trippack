@@ -191,3 +191,16 @@ $(window).on('load', function() {
 
 })(jQuery);
 
+/*------------------
+	name roatation- portfolio  
+--------------------*/
+
+const names = ["SREENIVASAN K R", "A PhD STUDENT"];
+let curr = 0;
+const rotator = document.getElementById('profile-name-rotator');
+setInterval(() => {
+  curr = (curr + 1) % names.length;
+  rotator.textContent = names[curr];
+}, 2000); // 2000 ms = 2 seconds per name
+
+
