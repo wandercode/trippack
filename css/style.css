@@ -1999,6 +1999,11 @@ only screen and (min-width: 992px) and (max-width: 1200px),
   margin-bottom: 12px;
 }
 
+.flipcard-front p {
+  font-size: 22px;
+  color: #fff;
+}
+
 .flipcard-back {
   background:bisque;
   color: #fff;
