@@ -15,12 +15,12 @@
 html,
 body {
 	height: 100%;
-	font-family:'monospace.medium', monospace;
+	font-family:"angelina", cursive, monospace;
 	-webkit-font-smoothing: antialiased;
 }
     @font-face {
-      font-family: 'monospace.medium'; /* A name you choose for your font */
-      src: url('fonts/monospace.medium.ttf') format('ttf'); /* Paths to your font files */
+      font-family: 'angelina'; /* A name you choose for your font */
+      src: url('fonts/angelina.TTF') format('TTF'); /* Paths to your font files */
       font-weight: normal; /* Optional: specify font weight */
       font-style: normal;  /* Optional: specify font style */
       font-display: swap; /* Optional: improves performance, see MDN for details */
