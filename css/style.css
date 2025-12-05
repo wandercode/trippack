@@ -15,12 +15,12 @@
 html,
 body {
 	height: 100%;
-	font-family:"angelina", cursive, monospace;
+	font-family: cursive, monospace;
 	-webkit-font-smoothing: antialiased;
 }
     @font-face {
-      font-family: 'angelina'; /* A name you choose for your font */
-      src: url('fonts/angelina.TTF') format('TTF'); /* Paths to your font files */
+      font-family: 'cursive'; /* A name you choose for your font */
+      src: url('fonts') format('TTF'); /* Paths to your font files */
       font-weight: normal; /* Optional: specify font weight */
       font-style: normal;  /* Optional: specify font style */
       font-display: swap; /* Optional: improves performance, see MDN for details */
@@ -728,7 +728,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .about-section .about-left {
-	background: #626060;
+	background: #464545;
 	-ms-flex: 0 0 47%;
 	-webkit-box-flex: 0;
 	flex: 0 0 47%;
@@ -906,7 +906,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 .about-text h2 {
 	display: inline-block;
 	padding-bottom: 8px;
-	border-bottom: 3px solid #90e184;
+	border-bottom: 3px solid #f8faf8;
 	margin-bottom: 20px;
 }
 
