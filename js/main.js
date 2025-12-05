@@ -203,4 +203,10 @@ setInterval(() => {
   rotator.textContent = names[curr];
 }, 2000); // 2000 ms = 2 seconds per name
 
-
+const namess = ["SREENIVASAN K R", "A TRAVELER"];
+let currr = 0;
+const abrotator = document.getElementById('about-name-rotator');
+setInterval(() => {
+  currr = (currr + 1) % namess.length;
+  abrotator.textContent = namess[currr];
+}, 2000);
