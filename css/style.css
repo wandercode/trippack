@@ -280,8 +280,8 @@ ol {
 	padding-top: 23px;
 	font-size: 30px;
 	text-align: center;
-	color: #fff;
-	background: #0f0f0f;
+	color: #0f0f0f;
+	background: #fff;
 	cursor: pointer;
 }
 
@@ -362,13 +362,13 @@ ol {
 	padding-top: 23px;
 	font-size: 30px;
 	text-align: center;
-	color: #fff;
-	background: #0f0f0f;
+	color: #0f0f0f;
+	background: #fff;
 	cursor: pointer;
 }
 
 .site-logo {
-	background: #464454;
+	background: #fff;
 	width: calc(100% - 90px);
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -384,6 +384,13 @@ ol {
 	-ms-flex-align: center;
 	align-items: center;
 }
+
+.site-logo img {
+    width: 100%;
+    max-width: 120px; /* control the maximum size */
+    height: auto;
+}
+
 
 .main-menu {
 	height: calc(100% - 160px);
