@@ -2003,6 +2003,60 @@ only screen and (min-width: 992px) and (max-width: 1200px),
   }
 }
 
+.profile-about {
+  display: flex;
+  min-height: 60vh;  
+  padding: 244px 148px;            /* height of the section */
+}
+
+/* both sides */
+.profile-about-left,
+.profile-about-right {
+  flex: 1;
+  margin: 0;
+}
+
+/* big multi-line text side */
+.profile-about-left {
+  display: flex;
+  align-items: center;           /* vertical center */
+  /* change to text-align: right if you want it on the right */
+  text-align: left;
+  margin-left: 10px;
+  color:black ;
+}
+
+.profile-about-left {
+  font-size: clamp(2rem, 4vw, 3rem);   /* responsive size */
+  line-height: 1.2;
+}
+
+/* single word centered side */
+.profile-about-right {
+  display: flex;
+  justify-content: center;       /* horizontal center */
+  align-items: center;           /* vertical center */
+  font-size: clamp(3rem, 7vw, 4rem);
+  text-transform: uppercase;     /* optional */
+  letter-spacing: 0.15em; 
+  color: #000000;       /* optional */
+}
+
+/* mobile: stack */
+@media (max-width: 768px) {
+  .profile-about {
+    flex-direction: column;
+    padding: 28px 10px;
+  }
+
+  .profile-about-left,
+  .profile-about-right {
+    text-align: center;
+    justify-content: center;
+  }
+}
+
+
 
 .flipcard-section {
   display: flex;
