@@ -15,12 +15,12 @@
 html,
 body {
 	height: 100%;
-	font-family: cursive, monospace;
+	font-family: "mycursive",cursive, monospace;
 	-webkit-font-smoothing: antialiased;
 }
     @font-face {
-      font-family: 'cursive'; /* A name you choose for your font */
-      src: url('fonts') format('TTF'); /* Paths to your font files */
+      font-family: "mycursive"; /* A name you choose for your font */
+      src: url('fonts/Delhine.ttf') format('ttf'); /* Paths to your font files */
       font-weight: normal; /* Optional: specify font weight */
       font-style: normal;  /* Optional: specify font style */
       font-display: swap; /* Optional: improves performance, see MDN for details */
