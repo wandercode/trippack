@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trippack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+649db59a0734103dc98594576c07ae9eee87e306")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+677989870936ac3fdc64721339ac854e7bd5e2c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("trippack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trippack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

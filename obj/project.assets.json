@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\trippack\\trippack.csproj",
+      "projectUniqueName": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\redeagle\\trippack.csproj",
       "projectName": "trippack",
-      "projectPath": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\trippack\\trippack.csproj",
+      "projectPath": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\redeagle\\trippack.csproj",
       "packagesPath": "C:\\Users\\syami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\trippack\\obj\\",
+      "outputPath": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\redeagle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\syami\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -195,7 +195,7 @@ $(window).on('load', function() {
 	name roatation- portfolio  
 --------------------*/
 
-const names = ["SREENIVASAN K R", "A PhD STUDENT"];
+const names = ["SREENIVASAN K R", "An Astrophysicist"];
 let curr = 0;
 const rotator = document.getElementById('profile-name-rotator');
 setInterval(() => {
