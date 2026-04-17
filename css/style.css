@@ -15,7 +15,7 @@
 html,
 body {
 	height: 100%;
-	font-family: "mycursive",cursive, monospace;
+	font-family: monospace,sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
     @font-face {

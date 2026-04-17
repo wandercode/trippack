@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kMHYUGRudGo=",
+  "dgSpecHash": "SYYBJ+x/BIU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\trippack\\trippack.csproj",
+  "projectFilePath": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\redeagle\\trippack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\syami\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\syami\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
